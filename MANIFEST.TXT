@@ -1,0 +1,10 @@
+codigos_provincias.csv (text/comma-separated-values) 693 bytes.
+demographics.csv (text/csv) 98309 bytes.
+EG15cod_DEPARTAMENTOS.csv (text/comma-separated-values) 9396 bytes.
+EG15cod_PROVINCIAS.csv (text/csv) 344 bytes.
+EG15pres_y_vice_0101.csv (text/csv) 2549542 bytes.
+EG15pres_y_vice_0202.tab (text/tab-separated-values)  skipped because the total size of the download bundle exceeded the limit of 10000000 bytes.
+EG15pres_y_vice_0313.tab (text/tab-separated-values)  skipped because the total size of the download bundle exceeded the limit of 10000000 bytes.
+EG15pres_y_vice_1424.tab (text/tab-separated-values)  skipped because the total size of the download bundle exceeded the limit of 10000000 bytes.
+functions_script.R (type/x-r-syntax) 50815 bytes.
+main_script.R (type/x-r-syntax) 21706 bytes.
